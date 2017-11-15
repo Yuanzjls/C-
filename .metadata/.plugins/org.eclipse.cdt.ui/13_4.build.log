@@ -1,0 +1,5 @@
+15:10:57 **** Clean-only build of configuration Debug for project 13_4 ****
+rm -rf src/13_4.o src/port.o 13_4.exe src/port.d src/13_4.d 
+
+15:10:57 Build Finished (took 142ms)
+

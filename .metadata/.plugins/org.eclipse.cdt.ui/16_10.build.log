@@ -1,0 +1,5 @@
+15:10:59 **** Clean-only build of configuration Debug for project 16_10 ****
+rm -rf src/16_10.o 16_10.exe src/16_10.d 
+
+15:10:59 Build Finished (took 143ms)
+

@@ -1,0 +1,5 @@
+15:11:11 **** Clean-only build of configuration Debug for project twod ****
+rm -rf src/twod.o twod.exe src/twod.d 
+
+15:11:11 Build Finished (took 138ms)
+

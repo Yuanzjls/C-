@@ -1,0 +1,5 @@
+15:11:07 **** Clean-only build of configuration Debug for project manyfriends ****
+rm -rf src/manyfriends.o src/manyfriends.d manyfriends.exe 
+
+15:11:08 Build Finished (took 129ms)
+

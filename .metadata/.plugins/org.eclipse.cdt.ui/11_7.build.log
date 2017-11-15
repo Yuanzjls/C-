@@ -1,0 +1,5 @@
+15:10:56 **** Clean-only build of configuration Debug for project 11_7 ****
+rm -rf src/11_7.d src/Mycomplex.d 11_7.exe src/Mycomplex.o src/11_7.o 
+
+15:10:56 Build Finished (took 128ms)
+

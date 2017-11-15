@@ -1,0 +1,5 @@
+15:10:57 **** Clean-only build of configuration Debug for project 14_3 ****
+rm -rf src/worker.d src/14_3.o src/14_3.d 14_3.exe src/worker.o 
+
+15:10:57 Build Finished (took 137ms)
+

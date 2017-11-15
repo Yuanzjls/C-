@@ -1,0 +1,5 @@
+15:11:07 **** Clean-only build of configuration Debug for project funtemp ****
+rm -rf src/funtemp.o src/funtemp.d funtemp.exe 
+
+15:11:07 Build Finished (took 134ms)
+

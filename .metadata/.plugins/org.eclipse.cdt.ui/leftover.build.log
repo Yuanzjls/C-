@@ -1,0 +1,5 @@
+15:11:07 **** Clean-only build of configuration Debug for project leftover ****
+rm -rf src/leftover.o src/leftover.d leftover.exe 
+
+15:11:07 Build Finished (took 156ms)
+

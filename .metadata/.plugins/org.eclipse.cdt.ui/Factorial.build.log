@@ -1,0 +1,5 @@
+15:11:03 **** Clean-only build of configuration Debug for project Factorial ****
+rm -rf src/Factorial.d src/Factorial.o Factorial.exe 
+
+15:11:03 Build Finished (took 136ms)
+

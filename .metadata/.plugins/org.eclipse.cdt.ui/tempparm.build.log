@@ -1,0 +1,5 @@
+15:11:11 **** Clean-only build of configuration Debug for project tempparm ****
+rm -rf src/stacktemplate.d tempparm.exe src/stack.d src/stack.o src/stacktemplate.o 
+
+15:11:11 Build Finished (took 137ms)
+

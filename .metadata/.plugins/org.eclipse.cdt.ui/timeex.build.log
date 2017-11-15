@@ -1,0 +1,5 @@
+15:11:11 **** Clean-only build of configuration Debug for project timeex ****
+rm -rf src/Mytime.d src/timeex.o timeex.exe src/timeex.d src/Mytime.o 
+
+15:11:11 Build Finished (took 141ms)
+

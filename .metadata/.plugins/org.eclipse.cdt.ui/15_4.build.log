@@ -1,0 +1,5 @@
+15:10:58 **** Clean-only build of configuration Debug for project 15_4 ****
+rm -rf src/sales.d src/usesales.o 15_4.exe src/sales.o src/usesales.d 
+
+15:10:58 Build Finished (took 131ms)
+

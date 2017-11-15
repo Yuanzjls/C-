@@ -1,0 +1,1 @@
+INDEX VERSION 1.127+D:\Laboratory\C++\C++Prime\.metadata\.plugins\org.eclipse.jdt.core

@@ -1,0 +1,5 @@
+15:11:04 **** Clean-only build of configuration Debug for project Nesttp ****
+rm -rf src/Nesttp.d Nesttp.exe src/Nesttp.o 
+
+15:11:04 Build Finished (took 173ms)
+

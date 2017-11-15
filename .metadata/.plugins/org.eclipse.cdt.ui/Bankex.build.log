@@ -1,0 +1,5 @@
+15:11:03 **** Clean-only build of configuration Debug for project Bankex ****
+rm -rf Bankex.exe src/Bankex.o src/brass.d src/Bankex.d src/brass.o src/BrassPlus.o src/BrassPlus.d 
+
+15:11:03 Build Finished (took 130ms)
+

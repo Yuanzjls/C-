@@ -1,0 +1,5 @@
+weeding time = 4 hours, 35 minutes
+waxing time =2 hours, 47 minutes
+total work time = 7 hours, 22 minutes
+weeding time - waxing time = 1 hours, 48 minutes
+adjusted work time = 11 hours, 3 minutes

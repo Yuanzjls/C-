@@ -1,0 +1,7 @@
+22:53:24 **** Rebuild of configuration Debug for project cinsum ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\cinsum.o" "..\\src\\cinsum.cpp" 
+g++ -o cinsum.exe "src\\cinsum.o" 
+
+22:53:25 Build Finished (took 1s.585ms)
+

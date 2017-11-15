@@ -1,0 +1,5 @@
+15:11:05 **** Clean-only build of configuration Debug for project cinsum ****
+rm -rf src/cinsum.d cinsum.exe src/cinsum.o 
+
+15:11:05 Build Finished (took 124ms)
+

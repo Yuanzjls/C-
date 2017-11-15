@@ -1,0 +1,5 @@
+15:11:06 **** Clean-only build of configuration Debug for project frnd2tmp ****
+rm -rf src/frnd2tmp.o src/frnd2tmp.d frnd2tmp.exe 
+
+15:11:06 Build Finished (took 129ms)
+

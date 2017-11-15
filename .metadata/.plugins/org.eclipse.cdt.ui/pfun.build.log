@@ -1,0 +1,5 @@
+15:11:09 **** Clean-only build of configuration Debug for project pfun ****
+rm -rf src/func.o src/pfun.d pfun.exe src/func.d src/pfun.o 
+
+15:11:09 Build Finished (took 119ms)
+

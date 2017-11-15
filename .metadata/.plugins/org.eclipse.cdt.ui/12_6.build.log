@@ -1,0 +1,5 @@
+15:10:56 **** Clean-only build of configuration Debug for project 12_6 ****
+rm -rf src/Bank.o src/Queue.o src/Bank.d src/Queue.d 12_6.exe 
+
+15:10:56 Build Finished (took 175ms)
+

@@ -1,0 +1,5 @@
+15:11:03 **** Clean-only build of configuration Debug for project MIwoker2 ****
+rm -rf MIwoker2.exe src/MIwoker.o src/worker.d src/MIwoker.d src/worker.o 
+
+15:11:03 Build Finished (took 126ms)
+

@@ -1,0 +1,5 @@
+15:11:02 **** Clean-only build of configuration Debug for project 7_10 ****
+rm -rf src/7_10.d 7_10.exe src/7_10.o 
+
+15:11:02 Build Finished (took 152ms)
+

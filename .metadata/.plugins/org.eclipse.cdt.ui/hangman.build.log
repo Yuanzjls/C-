@@ -1,0 +1,5 @@
+15:11:07 **** Clean-only build of configuration Debug for project hangman ****
+rm -rf hangman.exe src/hangman.o src/hangman.d 
+
+15:11:07 Build Finished (took 144ms)
+

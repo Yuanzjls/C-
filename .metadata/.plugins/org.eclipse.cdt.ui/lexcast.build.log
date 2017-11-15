@@ -1,0 +1,7 @@
+14:30:13 **** Incremental Build of configuration Debug for project lexcast ****
+Info: Internal Builder is used for build
+g++ "-ID:\\MinGW\\boost\\include\\boost-1_64" -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -o "src\\lexcast.o" "..\\src\\lexcast.cpp" 
+g++ "-LD:\\MinGW\\boost\\lib" -o lexcast.exe "src\\lexcast.o" 
+
+14:30:15 Build Finished (took 2s.426ms)
+

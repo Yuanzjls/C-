@@ -1,0 +1,5 @@
+15:11:02 **** Clean-only build of configuration Debug for project Bank ****
+rm -rf src/Queue.o src/Bank.o src/Queue.d src/Bank.d Bank.exe 
+
+15:11:03 Build Finished (took 142ms)
+

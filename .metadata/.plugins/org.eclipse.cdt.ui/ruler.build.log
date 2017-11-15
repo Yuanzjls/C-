@@ -1,0 +1,5 @@
+15:11:09 **** Clean-only build of configuration Debug for project ruler ****
+rm -rf ruler.exe src/ruler.d src/ruler.o 
+
+15:11:09 Build Finished (took 117ms)
+

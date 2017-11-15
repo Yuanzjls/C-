@@ -1,0 +1,8 @@
+12:24:02 **** Rebuild of configuration Debug for project person ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -o "src\\person.o" "..\\src\\person.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -o "src\\bankaccount.o" "..\\src\\bankaccount.cpp" 
+g++ -o person.exe "src\\person.o" "src\\bankaccount.o" 
+
+12:24:14 Build Finished (took 11s.782ms)
+

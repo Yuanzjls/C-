@@ -1,0 +1,5 @@
+15:11:08 **** Clean-only build of configuration Debug for project namespaceex ****
+rm -rf src/namespaceex.o namespaceex.exe src/namesp.d src/namespaceex.d src/namesp.o 
+
+15:11:08 Build Finished (took 131ms)
+

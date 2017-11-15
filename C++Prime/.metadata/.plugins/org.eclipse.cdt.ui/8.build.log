@@ -1,0 +1,10 @@
+16:04:03 **** Incremental Build of configuration Debug for project 8 ****
+make all 
+Building file: ../system/src/stm32f1-stdperiph/misc.c
+Invoking: Cross ARM C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_ITM -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -DHSE_VALUE=8000000 -I"../include" -I"../system/include" -I"../system/include/cmsis" -I"../system/include/stm32f1-stdperiph" -std=gnu11 -MMD -MP -MF"system/src/stm32f1-stdperiph/misc.d" -MT"system/src/stm32f1-stdperiph/misc.o" -c -o "system/src/stm32f1-stdperiph/misc.o" "../system/src/stm32f1-stdperiph/misc.c"
+arm-none-eabi-gcc.exe: error: CreateProcess: No such file or directory
+make: *** [system/src/stm32f1-stdperiph/misc.o] Error 1
+
+16:04:06 Build Finished (took 3s.58ms)
+

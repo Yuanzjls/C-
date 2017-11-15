@@ -1,0 +1,5 @@
+15:11:08 **** Clean-only build of configuration Debug for project outfile ****
+rm -rf src/outfile.d outfile.exe src/outfile.o 
+
+15:11:08 Build Finished (took 137ms)
+

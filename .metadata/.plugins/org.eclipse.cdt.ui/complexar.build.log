@@ -1,0 +1,5 @@
+15:11:05 **** Clean-only build of configuration Debug for project complexar ****
+rm -rf src/complexar.o src/complexar.d complexar.exe 
+
+15:11:05 Build Finished (took 131ms)
+

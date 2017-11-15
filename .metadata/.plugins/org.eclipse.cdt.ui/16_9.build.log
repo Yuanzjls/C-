@@ -1,0 +1,5 @@
+15:11:00 **** Clean-only build of configuration Debug for project 16_9 ****
+rm -rf main.o main.d 16_9.exe 
+
+15:11:00 Build Finished (took 147ms)
+

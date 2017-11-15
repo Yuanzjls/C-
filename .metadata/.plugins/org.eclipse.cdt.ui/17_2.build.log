@@ -1,0 +1,5 @@
+15:11:00 **** Clean-only build of configuration Debug for project 17_2 ****
+rm -rf 17_2.exe src/17_2.o src/17_2.d 
+
+15:11:00 Build Finished (took 139ms)
+

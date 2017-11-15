@@ -1,0 +1,31 @@
+/*
+ * stack.h
+ *
+ *  Created on: Jul 8, 2017
+ *      Author: scott
+ */
+
+#ifndef STACK_H_
+#define STACK_H_
+
+typedef unsigned long Item;
+
+class Stack {
+private:
+	enum {Max = 10};
+	Item *pitems;
+	int size;
+	int top;
+public:
+	Stack(int n = Max);
+	Stack(const Stack &st);
+	~Stack();
+	bool isempty() const;
+	bool isfull() const;
+	bool push(const Item & item);
+	bool pop(Item & item);
+	Stack & operator=(const Stack &t);
+
+};
+
+#endif /* STACK_H_ */

@@ -1,0 +1,5 @@
+15:11:09 **** Clean-only build of configuration Debug for project rtti2 ****
+rm -rf src/rtti2.d rtti2.exe src/rtti2.o 
+
+15:11:09 Build Finished (took 128ms)
+

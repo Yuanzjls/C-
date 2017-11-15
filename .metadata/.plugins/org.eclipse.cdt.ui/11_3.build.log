@@ -1,0 +1,5 @@
+15:10:56 **** Clean-only build of configuration Debug for project 11_3 ****
+rm -rf src/Vector.o 11_3.exe src/myvector.d src/Vector.d src/myvector.o 
+
+15:10:56 Build Finished (took 144ms)
+

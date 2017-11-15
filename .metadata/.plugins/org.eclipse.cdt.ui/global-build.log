@@ -1,0 +1,14 @@
+Info: Nothing to build for printdigital
+14:05:16 **** Incremental Build of configuration Debug for project printdigital ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\printdigital.o" "..\\src\\printdigital.cpp" 
+g++ -o printdigital.exe "src\\printdigital.o" 
+14:05:36 **** Incremental Build of configuration Debug for project printdigital ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\printdigital.o" "..\\src\\printdigital.cpp" 
+g++ -o printdigital.exe "src\\printdigital.o" 
+14:06:21 **** Incremental Build of configuration Debug for project printdigital ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\printdigital.o" "..\\src\\printdigital.cpp" 
+g++ -o printdigital.exe "src\\printdigital.o" 
+Info: Nothing to build for printdigital

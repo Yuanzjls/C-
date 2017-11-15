@@ -1,0 +1,5 @@
+15:11:10 **** Clean-only build of configuration Debug for project studentex2 ****
+rm -rf src/studentex.o studentex2.exe src/studentc.d src/studentc.o src/studentex.d 
+
+15:11:10 Build Finished (took 139ms)
+

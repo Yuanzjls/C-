@@ -1,0 +1,5 @@
+15:10:56 **** Clean-only build of configuration Debug for project 12_4 ****
+rm -rf src/stackex.d src/stack.o src/stackex.o 12_4.exe src/stack.d 
+
+15:10:56 Build Finished (took 149ms)
+

@@ -1,0 +1,7 @@
+23:32:14 **** Incremental Build of configuration Debug for project stdmove ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -o "src\\stdmove.o" "..\\src\\stdmove.cpp" 
+g++ -o stdmove.exe "src\\stdmove.o" 
+
+23:32:16 Build Finished (took 1s.772ms)
+

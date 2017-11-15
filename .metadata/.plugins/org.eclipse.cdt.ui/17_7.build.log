@@ -1,0 +1,7 @@
+14:03:57 **** Rebuild of configuration Debug for project 17_7 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -o "src\\17_7.o" "..\\src\\17_7.cpp" 
+g++ -o 17_7.exe "src\\17_7.o" 
+
+14:04:01 Build Finished (took 3s.893ms)
+

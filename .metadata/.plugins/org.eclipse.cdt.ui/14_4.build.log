@@ -1,0 +1,5 @@
+15:10:57 **** Clean-only build of configuration Debug for project 14_4 ****
+rm -rf src/14_4.o src/person.o src/person.d 14_4.exe src/14_4.d 
+
+15:10:58 Build Finished (took 136ms)
+

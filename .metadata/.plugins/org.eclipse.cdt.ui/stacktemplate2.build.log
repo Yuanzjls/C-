@@ -1,0 +1,5 @@
+15:11:10 **** Clean-only build of configuration Debug for project stacktemplate2 ****
+rm -rf src/stack.d src/stacktemplate.d src/stack.o stacktemplate2.exe src/stacktemplate.o 
+
+15:11:10 Build Finished (took 129ms)
+

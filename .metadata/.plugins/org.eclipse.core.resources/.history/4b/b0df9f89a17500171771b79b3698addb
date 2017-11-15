@@ -1,0 +1,70 @@
+//============================================================================
+// Name        : 17_2.cpp
+// Author      : Yuan
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+/*
+#include <iostream>
+#include <fstream>
+using namespace std;
+
+int main(int argc, char *argv[])
+{
+	char ch;
+
+	if (argc == 1)
+	{
+		cout << "The arguement is not correct" << endl;
+		cout << "Bye!";
+		return -1;
+	}
+	ofstream fout(argv[1], std::ios_base::out);
+	if (!fout.is_open())
+	{
+		cout << "Error, cannot open the file " << endl;
+		cout << "Bye!";
+		return -1;
+	}
+	cout << "Enter the content: " << endl;
+	cin.get(ch);
+	while(ch != EOF)
+	{
+		fout.put(ch);
+		cin.get(ch);
+	}
+	fout.close();
+	cout << endl << "Bye";
+	return 0;
+}
+*/
+int main()
+{
+    using std::cout;
+    using std::cin;
+    using std::endl;
+    using std::ofstream;
+
+    cout << "Enter filename: ";
+    char fname[20];
+    cin >> fname;
+    ofstream fout;
+    fout.open(fname, std::ios_base::out);
+
+    cout << "Enter something: " << endl;
+    char ch;
+    while (cin.get(ch))
+        fout.put(ch);
+    if (cin.eof())
+        cout << "\n It is EOF" << endl;
+    else
+    {
+        std::cerr << "Unkonwn error" << endl;
+        exit(EXIT_FAILURE);
+    }
+    fout.close();
+
+    return 0;
+}

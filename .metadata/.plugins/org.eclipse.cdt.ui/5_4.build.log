@@ -1,0 +1,5 @@
+15:11:01 **** Clean-only build of configuration Debug for project 5_4 ****
+rm -rf src/5_4.d 5_4.exe src/5_4.o 
+
+15:11:02 Build Finished (took 129ms)
+

@@ -1,0 +1,5 @@
+15:10:58 **** Clean-only build of configuration Debug for project 15_1 ****
+rm -rf src/use_tv.o 15_1.exe src/use_tv.d src/tv.d src/tv.o 
+
+15:10:58 Build Finished (took 141ms)
+

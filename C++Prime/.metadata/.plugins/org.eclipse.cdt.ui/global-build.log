@@ -1,0 +1,127 @@
+Info: Nothing to build for bankaccount
+Info: Nothing to build for bankaccount
+Info: Nothing to build for bankaccount
+17:42:41 **** Rebuild of configuration Debug for project bankaccount ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -o "src\\bankaccount.o" "..\\src\\bankaccount.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -o "src\\account.o" "..\\src\\account.cpp" 
+g++ -o bankaccount.exe "src\\bankaccount.o" "src\\account.o" 
+16:56:10 **** Rebuild of configuration Debug for project ruler ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ruler.o" "..\\src\\ruler.cpp" 
+g++ -o ruler.exe "src\\ruler.o" 
+11:02:35 **** Rebuild of configuration Debug for project bankaccount ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -o "src\\bankaccount.o" "..\\src\\bankaccount.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -o "src\\account.o" "..\\src\\account.cpp" 
+g++ -o bankaccount.exe "src\\bankaccount.o" "src\\account.o" 
+19:26:29 **** Rebuild of configuration Debug for project password ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -o "src\\person.o" "..\\src\\person.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -o "src\\bankaccount.o" "..\\src\\bankaccount.cpp" 
+..\src\bankaccount.cpp: In function 'int main()':
+..\src\bankaccount.cpp:17:13: error: too few arguments to function 'time_t time(time_t*)'
+  srand(time());
+             ^
+In file included from ..\src\bankaccount.cpp:11:0:
+d:\mingw\include\time.h:102:40: note: declared here
+ _CRTIMP time_t __cdecl __MINGW_NOTHROW time (time_t*);
+                                        ^
+..\src\bankaccount.cpp:15:6: warning: unused variable 'temp' [-Wunused-variable]
+  int temp;
+      ^
+19:27:15 **** Incremental Build of configuration Debug for project password ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -o "src\\bankaccount.o" "..\\src\\bankaccount.cpp" 
+..\src\bankaccount.cpp: In function 'int main()':
+..\src\bankaccount.cpp:15:6: warning: unused variable 'temp' [-Wunused-variable]
+  int temp;
+      ^
+g++ -o password.exe "src\\person.o" "src\\bankaccount.o" 
+Info: Nothing to build for password
+19:29:20 **** Incremental Build of configuration Debug for project password ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -o "src\\bankaccount.o" "..\\src\\bankaccount.cpp" 
+..\src\bankaccount.cpp:24:3: error: stray '\357' in program
+   case 0ï¼?
+   ^
+..\src\bankaccount.cpp:24:3: error: stray '\274' in program
+..\src\bankaccount.cpp:24:3: error: stray '\232' in program
+..\src\bankaccount.cpp: In function 'int main()':
+..\src\bankaccount.cpp:20:7: error: 'i' was not declared in this scope
+  for (i=0; i<8;i++)
+       ^
+..\src\bankaccount.cpp:25:4: error: expected ':' before 'break'
+    break;
+    ^
+19:29:26 **** Incremental Build of configuration Debug for project password ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -o "src\\bankaccount.o" "..\\src\\bankaccount.cpp" 
+..\src\bankaccount.cpp:24:3: error: stray '\357' in program
+   case 0ï¼?
+   ^
+..\src\bankaccount.cpp:24:3: error: stray '\274' in program
+..\src\bankaccount.cpp:24:3: error: stray '\232' in program
+..\src\bankaccount.cpp: In function 'int main()':
+..\src\bankaccount.cpp:20:7: error: 'i' was not declared in this scope
+  for (i=0; i<8;i++)
+       ^
+..\src\bankaccount.cpp:25:4: error: expected ':' before 'break'
+    break;
+    ^
+19:29:58 **** Incremental Build of configuration Debug for project password ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -o "src\\bankaccount.o" "..\\src\\bankaccount.cpp" 
+..\src\bankaccount.cpp: In function 'int main()':
+..\src\bankaccount.cpp:20:7: error: 'i' was not declared in this scope
+  for (i=0; i<8;i++)
+       ^
+19:30:12 **** Incremental Build of configuration Debug for project password ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -o "src\\bankaccount.o" "..\\src\\bankaccount.cpp" 
+g++ -o password.exe "src\\person.o" "src\\bankaccount.o" 
+19:33:15 **** Incremental Build of configuration Debug for project password ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -o "src\\bankaccount.o" "..\\src\\bankaccount.cpp" 
+g++ -o password.exe "src\\person.o" "src\\bankaccount.o" 
+Info: Nothing to build for password
+Info: Nothing to build for password
+19:33:37 **** Incremental Build of configuration Debug for project password ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -o "src\\bankaccount.o" "..\\src\\bankaccount.cpp" 
+g++ -o password.exe "src\\person.o" "src\\bankaccount.o" 
+19:33:43 **** Incremental Build of configuration Debug for project password ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -o "src\\bankaccount.o" "..\\src\\bankaccount.cpp" 
+g++ -o password.exe "src\\person.o" "src\\bankaccount.o" 
+19:33:49 **** Incremental Build of configuration Debug for project password ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -o "src\\bankaccount.o" "..\\src\\bankaccount.cpp" 
+g++ -o password.exe "src\\person.o" "src\\bankaccount.o" 
+19:34:18 **** Incremental Build of configuration Debug for project password ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -o "src\\bankaccount.o" "..\\src\\bankaccount.cpp" 
+g++ -o password.exe "src\\person.o" "src\\bankaccount.o" 
+Info: Nothing to build for password
+Info: Nothing to build for password
+Info: Nothing to build for password
+Info: Nothing to build for password
+19:34:44 **** Incremental Build of configuration Debug for project password ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -o "src\\bankaccount.o" "..\\src\\bankaccount.cpp" 
+g++ -o password.exe "src\\person.o" "src\\bankaccount.o" 
+Info: Nothing to build for password
+Info: Nothing to build for password
+Info: Nothing to build for password
+Info: Nothing to build for password
+Info: Nothing to build for password
+Info: Nothing to build for password
+Info: Nothing to build for password
+Info: Nothing to build for password
+Info: Nothing to build for password
+Info: Nothing to build for password
+19:49:15 **** Rebuild of configuration Debug for project password ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -o "src\\person.o" "..\\src\\person.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -std=c++11 -o "src\\bankaccount.o" "..\\src\\bankaccount.cpp" 
+g++ -o password.exe "src\\person.o" "src\\bankaccount.o" 

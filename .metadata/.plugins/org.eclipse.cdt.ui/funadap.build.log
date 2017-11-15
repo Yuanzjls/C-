@@ -1,0 +1,5 @@
+15:11:07 **** Clean-only build of configuration Debug for project funadap ****
+rm -rf src/funadap.o src/funadap.d funadap.exe 
+
+15:11:07 Build Finished (took 142ms)
+

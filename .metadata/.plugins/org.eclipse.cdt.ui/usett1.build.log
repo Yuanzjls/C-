@@ -1,0 +1,5 @@
+15:11:12 **** Clean-only build of configuration Debug for project usett1 ****
+rm -rf src/RatePlayer.d src/usett1.o usett1.exe src/usett1.d src/RatePlayer.o 
+
+15:11:12 Build Finished (took 134ms)
+

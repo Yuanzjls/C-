@@ -1,0 +1,5 @@
+15:11:11 **** Clean-only build of configuration Debug for project textin3 ****
+rm -rf src/textin3.d textin3.exe src/textin3.o 
+
+15:11:11 Build Finished (took 138ms)
+

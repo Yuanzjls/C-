@@ -1,0 +1,5 @@
+15:11:05 **** Clean-only build of configuration Debug for project error2 ****
+rm -rf error2.exe error2.d error2.o 
+
+15:11:06 Build Finished (took 276ms)
+
